@@ -44,7 +44,7 @@
 
 <div align="center">
   <!-- 30-Day Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TediKun&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=a6e3a1&area=true&area_color=89b4fa&border_color=313244&custom_title=btop%20%E2%94%80%2030-Day%20Commit%20Activity" alt="30-Day Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=TediKun&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=a6e3a1&area=true&area_color=89b4fa&border_color=313244&custom_title=btop%20%E2%94%80%2030-Day%20Commit%20Activity" alt="30-Day Activity Graph" width="100%" />
 </div>
 
 <br />
@@ -52,11 +52,11 @@
 <div align="center">
   <!-- GitHub Streak & Stats Cards -->
   <img src="https://streak-stats.demolab.com?user=TediKun&theme=catppuccin-mocha&border=313244&background=1e1e2e&ring=cba6f7&fire=fab387&currStreakLabel=89b4fa" alt="GitHub Streak" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TediKun&show_icons=true&bg_color=1e1e2e&border_color=313244&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&rank_icon=github" alt="GitHub Stats" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api?username=TediKun&show_icons=true&bg_color=1e1e2e&border_color=313244&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&rank_icon=github" alt="GitHub Stats" height="175" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TediKun&layout=compact&bg_color=1e1e2e&border_color=313244&title_color=cba6f7&text_color=cdd6f4" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TediKun&layout=compact&bg_color=1e1e2e&border_color=313244&title_color=cba6f7&text_color=cdd6f4" alt="Top Languages" height="165" />
 </div>
 
 ---
