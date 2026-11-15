@@ -14,22 +14,33 @@
 
 ### Tech Stack & Skills
 
-<div align="center">
-  <!-- AI, Data & Core -->
+<p><strong>❯ AI & Machine Learning</strong></p>
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,git,github,vscode,neovim&theme=dark" alt="AI & Tools Skills" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi&theme=dark" alt="AI & Machine Learning" />
   </a>
-  <br /><br />
-  <!-- Full-Stack Web -->
+</p>
+
+<p><strong>❯ Web Development (Frontend & Backend)</strong></p>
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,supabase,sqlite,mysql&theme=dark" alt="Full-Stack Web Skills" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,supabase,sqlite,mysql,postman&theme=dark" alt="Web Development" />
   </a>
-  <br /><br />
-  <!-- OS & Cloud Infrastructure -->
+</p>
+
+<p><strong>❯ DevOps, OS & Cloud Infrastructure</strong></p>
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,bash,docker,vercel&theme=dark" alt="OS & Cloud Infra" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,bash,docker,vercel&theme=dark" alt="DevOps, OS & Cloud Infrastructure" />
   </a>
-</div>
+</p>
+
+<p><strong>❯ Development Environment & Productivity</strong></p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,figma&theme=dark" alt="Development Environment & Tools" />
+  </a>
+</p>
 
 ---
 
@@ -69,16 +80,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### Featured Projects
-
-| Project | Tech Stack | Description | Status |
-| :--- | :--- | :--- | :---: |
-| **`tribook-web`** | `Next.js • Supabase • Tailwind` | Personal reading & writing platform for essays, monologues, and book reviews | `Active` |
-| **`coolinvest-app`** | `Next.js • Supabase RLS • Vercel` | Financial news & educational blog web application (`CInvest`) | `Active` |
-| **`tediscript-portfolio`** | `Next.js • Git JSON CMS • Tailwind` | Modular Bento-box developer portfolio with Hyprland/Kitty aesthetic | `Active` |
-| **`pra-coffe-pos`** | `React • Next.js • API Routes` | Full-stack self-service coffee shop ordering & cashier POS system | `Completed` |
-| **`habit-rpg-android`** | `React Native • SQLite` | Gamified Android habit tracker with RPG progression & rewards | `Completed` |
-| **`expense-tracker-app`** | `React Native • Expo • SQLite` | Personal expense tracker mobile app with visual analytics & category budgets | `Completed` |
