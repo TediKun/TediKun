@@ -7,10 +7,12 @@ on:
 
 jobs:
   update-readme:
-    if: ${{ secrets.WAKATIME_API_KEY != '' }}
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    env:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+    if: env.WAKATIME_API_KEY != ''
 
     steps:
       - uses: actions/checkout@v4
