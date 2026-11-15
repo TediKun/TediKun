@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 315" width="100%">
+  <!-- Card Frame -->
+  <rect x="1" y="1" width="848" height="313" rx="12" fill="#1e1e2e" stroke="#313244" stroke-width="1.5" />
+
+  <!-- Top Prompt -->
+  <text x="28" y="34" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13.5">
+    <tspan fill="#a6e3a1" font-weight="bold">❯ </tspan>
+    <tspan fill="#cdd6f4">fastfetch --config ~/.config/fastfetch/tediscript.jsonc</tspan>
+  </text>
+
+  <!-- Left Column: Arch Linux ASCII Art -->
+  <g fill="#74c7ec" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="bold">
+    <animate attributeName="opacity" values="0.82;1;0.82" dur="4s" repeatCount="indefinite" />
+    <text x="34" y="68" xml:space="preserve">              -@</text>
+    <text x="34" y="84" xml:space="preserve">             .##@</text>
+    <text x="34" y="100" xml:space="preserve">            .####@</text>
+    <text x="34" y="116" xml:space="preserve">            @#####@</text>
+    <text x="34" y="132" xml:space="preserve">          . *######@</text>
+    <text x="34" y="148" xml:space="preserve">         .##@o@#####@</text>
+    <text x="34" y="164" xml:space="preserve">        /############@</text>
+    <text x="34" y="180" xml:space="preserve">       /##############@</text>
+    <text x="34" y="196" xml:space="preserve">      @######@**%######@</text>
+    <text x="34" y="212" xml:space="preserve">     @######`     %#####o</text>
+    <text x="34" y="228" xml:space="preserve">    @######@       ######%</text>
+    <text x="34" y="244" xml:space="preserve">  -@#######h       ######@.`</text>
+    <text x="34" y="260" xml:space="preserve"> /#####h**``       `**%@####@</text>
+    <text x="34" y="276" xml:space="preserve">@H@*`                    `*%#@</text>
+  </g>
+
+  <!-- Right Column: Fastfetch Info -->
+  <g font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
+    <text x="295" y="68">
+      <tspan fill="#cba6f7" font-weight="bold">TediKun</tspan>
+      <tspan fill="#cdd6f4">@</tspan>
+      <tspan fill="#89b4fa" font-weight="bold">archlinux</tspan>
+    </text>
+    <text x="295" y="85" fill="#45475a">──────────────────────────────────────────────</text>
+
+    <text x="295" y="106">
+      <tspan fill="#89b4fa" font-weight="bold">OS</tspan>
+      <tspan fill="#6c7086">: </tspan>
+      <tspan fill="#cdd6f4">Arch Linux x86_64</tspan>
+    </text>
+    <text x="295" y="126">
+      <tspan fill="#89b4fa" font-weight="bold">WM</tspan>
+      <tspan fill="#6c7086">: </tspan>
+      <tspan fill="#cdd6f4">Hyprland (Wayland)</tspan>
+    </text>
+    <text x="295" y="146">
+      <tspan fill="#89b4fa" font-weight="bold">Terminal</tspan>
+      <tspan fill="#6c7086">: </tspan>
+      <tspan fill="#cdd6f4">Kitty (tediscript rice)</tspan>
+    </text>
+    <text x="295" y="166">
+      <tspan fill="#89b4fa" font-weight="bold">Shell</tspan>
+      <tspan fill="#6c7086">: </tspan>
+      <tspan fill="#cdd6f4">Zsh + Tmux + Neovim / VS Code</tspan>
+    </text>
+    <text x="295" y="186">
+      <tspan fill="#cba6f7" font-weight="bold">Frontend</tspan>
+      <tspan fill="#6c7086">: </tspan>
+      <tspan fill="#cdd6f4">Next.js, React, React Native, TypeScript, Tailwind</tspan>
+    </text>
+    <text x="295" y="206">
+      <tspan fill="#a6e3a1" font-weight="bold">Backend</tspan>
+      <tspan fill="#6c7086">: </tspan>
+      <tspan fill="#cdd6f4">Supabase, MySQL, Node.js, REST API, SQLite</tspan>
+    </text>
+    <text x="295" y="226">
+      <tspan fill="#fab387" font-weight="bold">Infra</tspan>
+      <tspan fill="#6c7086">: </tspan>
+      <tspan fill="#cdd6f4">Docker, Linux SysAdmin, CCTV &amp; Network Systems</tspan>
+    </text>
+    <text x="295" y="246">
+      <tspan fill="#f9e2af" font-weight="bold">Focus</tspan>
+      <tspan fill="#6c7086">: </tspan>
+      <tspan fill="#cdd6f4">Building Tribook, CoolInvest &amp; self-hosted tools</tspan>
+    </text>
+
+    <!-- Catppuccin Mocha Color Blocks -->
+    <rect x="295" y="266" width="24" height="14" rx="3" fill="#45475a" />
+    <rect x="323" y="266" width="24" height="14" rx="3" fill="#f38ba8" />
+    <rect x="351" y="266" width="24" height="14" rx="3" fill="#a6e3a1" />
+    <rect x="379" y="266" width="24" height="14" rx="3" fill="#f9e2af" />
+    <rect x="407" y="266" width="24" height="14" rx="3" fill="#89b4fa" />
+    <rect x="435" y="266" width="24" height="14" rx="3" fill="#cba6f7" />
+    <rect x="463" y="266" width="24" height="14" rx="3" fill="#94e2d5" />
+    <rect x="491" y="266" width="24" height="14" rx="3" fill="#cdd6f4" />
+  </g>
+</svg>
